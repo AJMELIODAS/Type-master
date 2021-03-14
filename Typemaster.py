@@ -11,6 +11,7 @@ timeleft=60
 app=Tk()
 app.title('Type master game')
 app.geometry('700x700')
+app.iconbitmap("F:\python programs\GUI\keyboard.ico")
 app.config(bg='white')
 app.resizable(0,0)
 
